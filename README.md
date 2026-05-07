@@ -1,6 +1,6 @@
 # comprog final project
 #  Manufacturing Yield & Downtime Dashboard
-Group Members
+Group Members:
 
 Ianjay Novelas
 
